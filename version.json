@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "build": "26091223",
-  "package-size": "41",
-  "release-date": "12.09.2026",
-  "apk_path": "https://github.com/Phoenix4331/Nest/releases/download/v1.2.0/com.jkowalik.nest.apk"
+  "version": "1.2.0-rc.1",
+  "build": "26092322",
+  "package-size": "42",
+  "release-date": "23.09.2026",
+  "apk_path": "https://github.com/Phoenix4331/Nest/releases/download/v1.2.0-rc.1/com.jkowalik.nest.apk"
 }
